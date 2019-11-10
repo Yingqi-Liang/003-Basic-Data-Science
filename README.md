@@ -1,1 +1,1 @@
-# basic-data-science
+# Basic Data Science
